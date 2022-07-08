@@ -1,0 +1,67 @@
+body{
+   background-color: rgb(69, 208, 208);
+   margin-left: 25px;
+   margin-top: 7%;
+}
+#backGroundImage{
+   margin-left: 450px;
+height: 500px;
+width: 750px;
+}
+#viewWork{
+   position: absolute;
+   top: 400px;
+   left: 200px;
+}
+.image{
+   background-color: lavenderblush;
+}
+#titleName{
+   position: absolute;
+   bottom: 55%;
+}
+#titleDescription{
+   position: absolute;
+   bottom: 50%;
+   font-weight: lighter;
+   color: blueviolet;
+}
+#firstImage{
+   display: block;
+   margin-left:150px ;
+   height: 500px;
+   width: 1000px;
+}
+.image1{
+   background-color: rgb(230, 63, 63);
+}
+#ourWork{
+   text-align: center;
+   font-size: 30px;
+   color: bisque;
+}
+#secondImage{
+   display: block;
+   margin-left:150px ;
+   height: 700px;
+   width: 1000px;
+}
+#FOODPHOTOGRAPHY{ 
+   text-align: center;
+   font-size: 30px;
+   color: bisque;
+}
+#thirdImage{display: block;
+   margin-left:150px ;
+   height: 700px;
+   width: 1000px;
+}
+.image2{
+   background-color: olivedrab;
+}
+.image3{
+background-color: rgb(224, 34, 155);
+}
+.image4{
+   background-color: rgb(18, 255, 117);
+}
